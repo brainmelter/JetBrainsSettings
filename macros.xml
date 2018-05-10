@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Insert Line Above">
-      <action id="EditorUp" />
-      <action id="EditorStartNewLine" />
-    </macro>
-  </component>
-</application>
