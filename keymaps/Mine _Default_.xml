@@ -17,7 +17,7 @@
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="ChangeSignature">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl s" />
   </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
@@ -140,7 +140,7 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="x" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
@@ -181,20 +181,20 @@
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="ImplementMethods" />
   <action id="Inline">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="i" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl c" />
   </action>
   <action id="IntroduceField">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl f" />
   </action>
   <action id="IntroduceParameter">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
   </action>
   <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
   </action>
   <action id="Macro.Insert Line Above">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -208,7 +208,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="Move">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="m" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
   </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -240,7 +240,7 @@
   </action>
   <action id="ReformatCode" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
   <action id="Replace" />
   <action id="RestoreDefaultLayout">
