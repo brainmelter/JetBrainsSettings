@@ -4,10 +4,10 @@
     <property name="created">2018-05-09T19:33:54</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-05-17T07:54:20</property>
+    <property name="modified">2018-06-01T02:29:44</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.05" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="15" />
@@ -17,6 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="accc7c" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
