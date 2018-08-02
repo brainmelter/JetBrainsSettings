@@ -4,7 +4,7 @@
     <property name="created">2018-05-09T19:33:54</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-06-01T20:25:19</property>
+    <property name="modified">2018-08-01T20:49:28</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -636,7 +636,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f5957a" />
+        <option name="FOREGROUND" value="f5a693" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -771,7 +771,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ffdd80" />
+        <option name="FOREGROUND" value="6ffffc" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -3236,13 +3236,12 @@
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f07178" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ee9c99" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f5937a" />
+        <option name="FOREGROUND" value="f5a693" />
       </value>
     </option>
     <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
@@ -3273,12 +3272,12 @@
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="f5a693" />
       </value>
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f5957a" />
+        <option name="FOREGROUND" value="f5a693" />
       </value>
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
