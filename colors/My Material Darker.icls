@@ -4,7 +4,7 @@
     <property name="created">2018-05-09T19:33:54</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-08-01T20:49:28</property>
+    <property name="modified">2018-08-02T22:01:17</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -669,7 +669,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7ff0a6" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -699,7 +699,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7ff0a6" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -3282,7 +3282,7 @@
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="7ff0a6" />
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
