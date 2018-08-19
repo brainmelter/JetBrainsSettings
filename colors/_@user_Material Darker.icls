@@ -4,7 +4,7 @@
     <property name="created">2018-05-07T22:13:45</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-08-18T18:46:45</property>
+    <property name="modified">2018-08-18T18:48:39</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -605,7 +605,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="a6a6a6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -641,7 +641,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="a6a6a6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -715,7 +715,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="a6a6a6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
