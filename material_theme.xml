@@ -1,10 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.4.1.5-2018.1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="2979ff" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="-17a21b22:16544d2406c:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
