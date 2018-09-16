@@ -4,7 +4,7 @@
     <property name="created">2018-08-18T23:09:58</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2018-08-23T18:06:26</property>
+    <property name="modified">2018-09-16T00:22:54</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3232,8 +3232,7 @@
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f07178" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f09096" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
