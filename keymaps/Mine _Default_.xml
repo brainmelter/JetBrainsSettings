@@ -126,6 +126,10 @@
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorToggleCase" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
