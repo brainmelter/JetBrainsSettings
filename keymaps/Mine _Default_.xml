@@ -122,6 +122,9 @@
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -250,6 +253,9 @@
   <action id="RestoreDefaultLayout">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="RiderBackendAction-EncapsulateField">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl e" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestRunContextTwAction" />
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
@@ -287,6 +293,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
