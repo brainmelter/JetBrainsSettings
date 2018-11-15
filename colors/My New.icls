@@ -4,7 +4,7 @@
     <property name="created">2018-09-21T16:11:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2018-10-26T19:37:33</property>
+    <property name="modified">2018-11-15T14:19:53</property>
     <property name="originalScheme">Material Darker 2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -49,7 +49,7 @@
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="6d6d6d" />
-    <option name="METHOD_SEPARATORS_COLOR" value="737373" />
+    <option name="METHOD_SEPARATORS_COLOR" value="565656" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
@@ -3302,7 +3302,6 @@
         <option name="BACKGROUND" value="323232" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
