@@ -23,6 +23,7 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl s" />
   </action>
+  <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
@@ -47,6 +48,7 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diagram.DeselectAll" />
   <action id="Diagram.SelectAll" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -265,7 +267,9 @@
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SaveAll" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
