@@ -4,7 +4,7 @@
     <property name="created">2018-09-21T16:11:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2019-02-07T10:34:58</property>
+    <property name="modified">2019-02-13T09:55:35</property>
     <property name="originalScheme">Material Darker 2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -20,7 +20,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
-    <option name="CARET_COLOR" value="ad0032" />
+    <option name="CARET_COLOR" value="be0035" />
     <option name="CARET_ROW_COLOR" value="181818" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
