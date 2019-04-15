@@ -33,6 +33,7 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="CollapseTreeNode" />
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.History.Browse" />
@@ -191,6 +192,9 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="minus" />
+  </action>
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="ImplementMethods" />
   <action id="Inline">
@@ -266,6 +270,9 @@
   <action id="RiderUnitTestRunContextTwAction" />
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="subtract" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
