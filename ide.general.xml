@@ -18,5 +18,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>
