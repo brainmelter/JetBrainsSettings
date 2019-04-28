@@ -259,7 +259,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="RestoreDefaultLayout">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
