@@ -5,8 +5,7 @@
   </action>
   <action id="$SelectAll" />
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
@@ -27,7 +26,7 @@
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseExpandableComponent">
@@ -256,6 +255,7 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -299,7 +299,7 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
