@@ -189,6 +189,9 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
@@ -282,9 +285,6 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt x" />
