@@ -241,6 +241,12 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl n" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl o" />
+  </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods">
