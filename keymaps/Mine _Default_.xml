@@ -66,11 +66,9 @@
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
   <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorDownWithSelection">
-    <keyboard-shortcut first-keystroke="shift down" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="EditorDuplicate" />
@@ -141,11 +139,9 @@
   </action>
   <action id="EditorToggleCase" />
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="EditorUpWithSelection">
-    <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="ExpandExpandableComponent">
