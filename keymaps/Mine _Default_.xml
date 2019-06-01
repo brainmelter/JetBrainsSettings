@@ -245,7 +245,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl n" />
   </action>
   <action id="OpenEditorInOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl d" />
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports" />
