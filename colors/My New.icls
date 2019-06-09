@@ -4,7 +4,7 @@
     <property name="created">2018-09-21T16:11:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2019-02-13T09:55:35</property>
+    <property name="modified">2019-06-08T10:16:46</property>
     <property name="originalScheme">Material Darker 2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -48,7 +48,7 @@
     <option name="GUTTER_BACKGROUND" value="191f24" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
-    <option name="LINE_NUMBERS_COLOR" value="6d6d6d" />
+    <option name="LINE_NUMBERS_COLOR" value="727272" />
     <option name="METHOD_SEPARATORS_COLOR" value="565656" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -184,7 +184,7 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="858585" />
         <option name="BACKGROUND" value="212121" />
       </value>
     </option>
@@ -816,13 +816,13 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="45582b" />
+        <option name="BACKGROUND" value="516b47" />
         <option name="ERROR_STRIPE_COLOR" value="447152" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="927243" />
+        <option name="BACKGROUND" value="547392" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
@@ -2233,7 +2233,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7ce078" />
+        <option name="FOREGROUND" value="d77c5e" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -2260,7 +2260,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="acacac" />
+        <option name="EFFECT_COLOR" value="9f9f9f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3254,7 +3254,7 @@
     </option>
     <option name="ReSharper.HINT">
       <value>
-        <option name="EFFECT_COLOR" value="89ddff" />
+        <option name="EFFECT_COLOR" value="4c7997" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3641,8 +3641,8 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="ffff00" />
-        <option name="EFFECT_COLOR" value="f8e71c" />
+        <option name="BACKGROUND" value="ffff80" />
+        <option name="EFFECT_COLOR" value="f7ed7c" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -3690,6 +3690,13 @@
     <option name="Unresolved reference access">
       <value>
         <option name="FOREGROUND" value="eeffff" />
+      </value>
+    </option>
+    <option name="Unused entry">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="aa80b5" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="VELOCITY_KEYWORD">
