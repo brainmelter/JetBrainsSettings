@@ -324,6 +324,9 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl f" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl u" />
