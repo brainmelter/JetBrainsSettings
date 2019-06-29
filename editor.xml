@@ -30,6 +30,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
 </application>
