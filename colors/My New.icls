@@ -4,7 +4,7 @@
     <property name="created">2018-09-21T16:11:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.3.0.0</property>
-    <property name="modified">2019-07-06T15:31:12</property>
+    <property name="modified">2019-07-11T23:20:31</property>
     <property name="originalScheme">Material Darker 2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -3636,9 +3636,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="ffff80" />
-        <option name="EFFECT_COLOR" value="f7ed7c" />
+        <option name="FOREGROUND" value="e171d" />
+        <option name="BACKGROUND" value="a9a955" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
