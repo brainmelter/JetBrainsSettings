@@ -4,6 +4,7 @@
     <option name="confirmOpenNewProject2" value="1" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useDefaultBrowser" value="false" />
+    <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
     <entry key="win.editor.thumb.default.alpha.base" value="0" />
