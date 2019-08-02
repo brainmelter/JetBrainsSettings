@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'JellyfishAssembly'" />
-    <option name="defaultScopeName" value="Project 'JellyfishAssembly'" />
-    <option name="SEARCH_SCOPE" value="Project 'JellyfishAssembly'" />
+    <option name="customScope" value="Project 'JellyfishCoreTests'" />
+    <option name="defaultScopeName" value="Project 'JellyfishCoreTests'" />
+    <option name="SEARCH_SCOPE" value="Project 'JellyfishCoreTests'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
