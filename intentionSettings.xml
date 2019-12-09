@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Python/Add type hint for variable" />
-  </component>
-</application>

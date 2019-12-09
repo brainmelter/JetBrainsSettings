@@ -10,5 +10,7 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
   </component>
 </application>
