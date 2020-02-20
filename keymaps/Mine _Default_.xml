@@ -192,9 +192,7 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
-  </action>
+  <action id="GotoTypeDeclaration" />
   <action id="Graph.ZoomOut">
     <keyboard-shortcut first-keystroke="minus" />
   </action>
@@ -312,6 +310,9 @@
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
