@@ -187,12 +187,16 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
-  <action id="GotoTypeDeclaration" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
   <action id="Graph.ZoomOut">
     <keyboard-shortcut first-keystroke="minus" />
   </action>
@@ -269,9 +273,7 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
-  <action id="RecentLocations">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl r" />
-  </action>
+  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -297,7 +299,7 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt x" />
@@ -311,9 +313,6 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
-  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
@@ -324,7 +323,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl v" />
   </action>
   <action id="SurroundWithLiveTemplate">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
