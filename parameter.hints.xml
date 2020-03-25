@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="DungeonServer.DungeonClient.DungeonClient(socket,ID)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
