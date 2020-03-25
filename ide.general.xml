@@ -11,5 +11,6 @@
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
