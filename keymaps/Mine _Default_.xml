@@ -187,9 +187,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
+  <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt q" />
@@ -264,7 +262,9 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
-  <action id="ReSharperGotoNextErrorInSolution" />
+  <action id="ReSharperGotoNextErrorInSolution">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
