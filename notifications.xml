@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="IDE and Plugin Updates" />
-    <notification groupId="Material Theme Notifications" displayType="NONE" />
-  </component>
-</application>
