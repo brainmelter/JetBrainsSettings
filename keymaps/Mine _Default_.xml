@@ -345,6 +345,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ViewAppearanceGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
