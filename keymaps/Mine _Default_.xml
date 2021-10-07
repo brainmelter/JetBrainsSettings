@@ -57,10 +57,10 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
@@ -216,6 +216,7 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl n" />
   </action>
+  <action id="NextTab" />
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports" />
   <action id="OverrideMethods">
@@ -225,6 +226,7 @@
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="PreviousTab" />
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -318,5 +320,6 @@
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="context.load" />
   <action id="openAssertEqualsDiff" />
 </keymap>
