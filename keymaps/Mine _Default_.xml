@@ -20,6 +20,7 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Revert" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
@@ -56,10 +57,10 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
@@ -276,6 +277,7 @@
   </action>
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -298,6 +300,7 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
@@ -311,6 +314,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl u" />
   </action>
+  <action id="UsageGrouping.Directory" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.GoToChild" />
   <action id="Vcs.Log.GoToParent" />
