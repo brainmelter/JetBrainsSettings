@@ -84,9 +84,7 @@
     <keyboard-shortcut first-keystroke="shift home" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
-  <action id="EditorMatchBrace">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl k" />
-  </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -174,7 +172,7 @@
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="ImplementMethods" />
   <action id="Inline">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl n" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant">
@@ -217,9 +215,6 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl n" />
-  </action>
-  <action id="OpenEditorInOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl d" />
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="OptimizeImports" />
@@ -291,26 +286,18 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
-  <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl h" />
-  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl v" />
   </action>
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Terminal.NextSplitter" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl f" />
-  </action>
   <action id="Uml.ShowDiff" />
-  <action id="Unscramble">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl s" />
-  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl u" />
   </action>
