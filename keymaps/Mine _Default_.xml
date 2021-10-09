@@ -302,6 +302,9 @@
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Unscramble">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl s" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl u" />
   </action>
