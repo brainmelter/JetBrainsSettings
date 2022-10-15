@@ -1,6 +1,8 @@
 <keymap version="1" name="Mine (Default)" parent="$default">
   <action id="$SelectAll" />
-  <action id="AceAction" />
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
@@ -125,12 +127,8 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
-  </action>
-  <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
-  </action>
+  <action id="FindNext" />
+  <action id="FindPrevious" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -287,7 +285,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl v" />
   </action>
   <action id="SurroundWithLiveTemplate">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="Terminal.NextSplitter" />
   <action id="TodoViewGroupByShowPackages" />
