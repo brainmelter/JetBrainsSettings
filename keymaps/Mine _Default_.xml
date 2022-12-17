@@ -203,6 +203,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
+  <action id="NavigateToImmediateWindow" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
