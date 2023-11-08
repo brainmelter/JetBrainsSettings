@@ -151,14 +151,14 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
-  </action>
+  <action id="GotoTypeDeclaration" />
   <action id="Graph.ZoomOut">
     <keyboard-shortcut first-keystroke="minus" />
   </action>
@@ -293,6 +293,7 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="ToggleFindInSelection" />
   <action id="Uml.ShowDiff" />
   <action id="Unscramble">
     <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl s" />
