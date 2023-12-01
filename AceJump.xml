@@ -1,8 +1,9 @@
 <application>
   <component name="AceConfig">
-    <option name="allowedChars" value="qweasdfc" />
+    <option name="allowedChars" value="qweasdfcrzxv" />
     <option name="jumpModeRGB" value="-16730311" />
     <option name="tagBackgroundRGB" value="-2695569" />
+    <option name="targetModeRGB" value="-16755201" />
     <option name="textHighlightRGB" value="-14861539" />
   </component>
 </application>

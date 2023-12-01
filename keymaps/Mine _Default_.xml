@@ -1,6 +1,7 @@
 <keymap version="1" name="Mine (Default)" parent="$default">
   <action id="$SelectAll" />
-  <action id="AceAction">
+  <action id="AceAction" />
+  <action id="AceTargetAction">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="ActivateLogcatToolWindow">
