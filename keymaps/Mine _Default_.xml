@@ -1,7 +1,7 @@
 <keymap version="1" name="Mine (Default)" parent="$default">
   <action id="$SelectAll" />
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="AceTargetAction" />
   <action id="ActivateLogcatToolWindow">
@@ -100,7 +100,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="EditorScrollToCenter">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -289,6 +289,8 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Terminal.NextSplitter" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark">
