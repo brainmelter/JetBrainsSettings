@@ -1,7 +1,7 @@
 <keymap version="1" name="Mine (Default)" parent="$default">
   <action id="$SelectAll" />
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="AceTargetAction" />
   <action id="ActivateLogcatToolWindow">
@@ -157,7 +157,7 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="GotoTypeDeclaration" />
   <action id="Graph.ZoomOut">
