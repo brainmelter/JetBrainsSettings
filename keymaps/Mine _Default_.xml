@@ -217,6 +217,10 @@
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="PerforceDirect.Edit" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt i" />
@@ -292,6 +296,7 @@
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Terminal.NextSplitter" />
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
