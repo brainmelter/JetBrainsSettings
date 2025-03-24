@@ -118,6 +118,9 @@
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl x" />
   </action>
@@ -326,6 +329,9 @@
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
   <action id="context.load" />
   <action id="openAssertEqualsDiff" />
 </keymap>
